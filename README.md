@@ -1,2 +1,4 @@
 # ai-pose-project
-Analyze posture in real time with Hailo and Raspberry Pi 5
+Analyze posture using pose estimation models in real time with Hailo and Raspberry Pi 5
+
+
